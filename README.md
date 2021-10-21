@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sayalikandarkar
-- 👀 I’m interested in exploring Artifical Intelligence.
+- 👀 I’m interested in doing research in the field of Medical Artifical Intelligence.
 - 🌱 I’m currently learning elastic search.
 - 💞️ I’m deeply passionate about the usage of Neural Networks to address the Health Care issues, some of there are as follows : 
         1] Alleviating mental health issues caused amongst teenagers due to excessive use of social media.
